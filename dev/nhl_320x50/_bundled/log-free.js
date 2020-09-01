@@ -51,7 +51,7 @@ function start() {
 
 	// tl.add(a_(a, 88), "+=.5")
 
-	tl.add("f2", "+=.8");
+	tl.add("f2", "+=1.2");
 	tl.to(".frame1", .3, { opacity: 0 }, "f2");
 	tl.set(".frame2", { opacity: 1 }, "f2");
 
